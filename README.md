@@ -12,7 +12,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 Esto es útil en caso que necesitemos identar, por ejemplo, para explicar código
 ```
 
-### Otro subtitulo
+### Otro subtítulo
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
